@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ProductsManagement.Models;
+using ProductsManagement.Services;
 
 namespace ProductsManagement.Controllers
 {
@@ -8,55 +9,63 @@ namespace ProductsManagement.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        static List<Products> product = new List<Products>
-            {
-                new Products {Id=1, Name="Laptop", Description="Laptop", Price=25500.1M},
-                new Products {Id=2, Name="Mobile",Description="Mobile", Price=20000.2M},
-                new Products { Id = 3, Name = "Bag", Description = "Bag", Price = 1500.5M }
-            };
+        private readonly IProductService service;
+        public ProductsController(IProductService productService)
+        {
+            service = productService;
+        }
 
         [HttpGet]
         public IActionResult GetProduct()
         {
-            return Ok(product);
+            return Ok(service.GetAllProducts());
         }
         [HttpGet]
         [Route("{id}")]
         public IActionResult GetProductById(int id)
         {
-            var response = product.FirstOrDefault(x => x.Id == id);
+            var response = service.GetProductById(id);
             if (response == null)
             {
                 return NotFound();
             }
             return Ok(response);
         }
+        [HttpPost]
+        public IActionResult CreateProduct(Products products)
+        {
+            var pro = service.AddProduct(products);
+            return CreatedAtAction(nameof(GetProductById), new {id=pro.Id}, pro);
+        }
 
         [HttpPut]
         [Route("{id}")]
         public IActionResult UpdateProduct(int id, Products products)
         {
-            var existProduct = product.FirstOrDefault(p => p.Id == id);
-            if (existProduct == null)
+            try
+            {
+                service.UpdateProduct(id, products);
+                return NoContent();
+            }
+            catch (Exception ex) 
             {
                 return NotFound();
             }
-            existProduct.Name = products.Name;
-            existProduct.Description = products.Description;
-            existProduct.Price = products.Price;
-            return NoContent();
         }
+
         [HttpDelete]
         [Route("{id}")]
         public IActionResult DeleteProduct(int id) 
-        { 
-            var pro = product.FirstOrDefault(x=>x.Id == id);
-            if (pro == null)
+        {
+            try
+            {
+                service.DeleteProductById(id);
+                return NoContent();
+            }
+            catch (Exception ex)
             {
                 return NotFound();
             }
-            product.Remove(pro);
-            return NoContent(); 
         }
     }
 }

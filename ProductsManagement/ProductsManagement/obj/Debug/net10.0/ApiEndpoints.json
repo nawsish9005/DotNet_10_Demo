@@ -11,6 +11,22 @@
   },
   {
     "ContainingType": "ProductsManagement.Controllers.ProductsController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "products",
+        "Type": "ProductsManagement.Models.Products",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductsManagement.Controllers.ProductsController",
     "Method": "GetProductById",
     "RelativePath": "api/Products/{id}",
     "HttpMethod": "GET",

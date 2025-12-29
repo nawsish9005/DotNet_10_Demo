@@ -1,32 +1,55 @@
-﻿using ProductsManagement.Models;
+﻿using ProductsManagement.Data;
+using ProductsManagement.Models;
 
 namespace ProductsManagement.Services
 {
     public class ProductService : IProductService
     {
-        public void AddProduct(Products product)
+        private readonly AppDbContext context;
+        public ProductService(AppDbContext appDbContext)
         {
-            throw new NotImplementedException();
+            context = appDbContext;
+        }
+        public Products AddProduct(Products products)
+        {
+            var newProduct = context.Products.Add(products);
+            context.SaveChanges();
+            return newProduct.Entity;
         }
 
         public void DeleteProductById(int id)
         {
-            throw new NotImplementedException();
+            var product = context.Products.Find(id);
+            if (product != null)
+            {
+                context.Products.Remove(product);
+                context.SaveChanges();
+            }
+            
         }
 
         public IEnumerable<Products> GetAllProducts()
         {
-            throw new NotImplementedException();
+            var products = context.Products.ToList();
+            return products;
         }
 
         public Products GetProductById(int id)
         {
-            throw new NotImplementedException();
+            var product = context.Products.Find(id);
+            return product;
         }
 
-        public void UpdateProduct(int it, Products product)
+        public void UpdateProduct(int id, Products product)
         {
-            throw new NotImplementedException();
+            var existProduct = context.Products.Find(id);
+            if (existProduct != null)
+            {
+                existProduct.Name = product.Name;
+                existProduct.Description = product.Description;
+                existProduct.Price = product.Price;
+                context.SaveChanges();
+            }
         }
     }
 }
