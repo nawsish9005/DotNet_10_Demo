@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\productsmanagement\\productsmanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\productsmanagement\\productsmanagement\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\productsmanagement\\productsmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\productsmanagement\\productsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\productsmanagement\\productsmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\productsmanagement\\productsmanagement\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\productsmanagement\\productsmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\productsmanagement\\productsmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductsManagement\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:45:12.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductsManagement\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:39:58.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductsManagement\\appsettings.Development.json",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\appsettings.Development.json",
+              "RelativeToolTip": "ProductsManagement\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T04:50:51.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Program.cs",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Program.cs",
+              "RelativeToolTip": "ProductsManagement\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABwAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:42:45.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductsManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T04:21:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductsManagement\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductsManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-28T13:02:36.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Models\\Products.cs",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Models\\Products.cs",
+              "RelativeToolTip": "ProductsManagement\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:11:13.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\ProductsManagement\\ProductsManagement\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsManagement\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:44:02.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
