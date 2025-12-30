@@ -1,4 +1,5 @@
-﻿using ProductsManagement.Models;
+﻿using ProductsManagement.DTOs;
+using ProductsManagement.Models;
 
 namespace ProductsManagement.Services
 {
@@ -6,7 +7,7 @@ namespace ProductsManagement.Services
     {
         IEnumerable<Products> GetAllProducts();
         Products GetProductById(int id);
-        Products AddProduct(Products products);
+        ProductResponseDto AddProduct(ProductRequestDto products);
         void UpdateProduct(int id, Products product);
         void DeleteProductById(int id);
     }

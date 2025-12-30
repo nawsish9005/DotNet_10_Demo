@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\dtos\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\dtos\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|d:\\nawsish ahmed\\projects\\personal\\.net 10 project\\dotnet_10_demo\\productsmanagement\\productsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E674F-5EF8-6948-B669-7DA64D5B4C84}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,33 +42,72 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\DTOs\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\DTOs\\ProductResponseDto.cs",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\DTOs\\ProductResponseDto.cs",
+              "RelativeToolTip": "ProductsManagement\\DTOs\\ProductResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T04:29:53.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Models\\Products.cs",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\Models\\Products.cs",
+              "RelativeToolTip": "ProductsManagement\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T04:22:33.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductRequestDto.cs",
+              "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\DTOs\\ProductRequestDto.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\DTOs\\ProductRequestDto.cs",
+              "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\DTOs\\ProductRequestDto.cs",
+              "RelativeToolTip": "ProductsManagement\\DTOs\\ProductRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T04:22:27.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "ProductsManagement\\Services\\ProductService.cs",
               "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\Services\\ProductService.cs",
               "RelativeToolTip": "ProductsManagement\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T05:45:12.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "ProductsManagement\\Services\\IProductService.cs",
               "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\Services\\IProductService.cs",
               "RelativeToolTip": "ProductsManagement\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T05:39:58.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\Program.cs",
               "RelativeDocumentMoniker": "ProductsManagement\\Program.cs",
@@ -64,18 +115,17 @@
               "RelativeToolTip": "ProductsManagement\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T04:42:45.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T04:42:45.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProductsManagement\\Controllers\\ProductsController.cs",
               "ToolTip": "D:\\Nawsish Ahmed\\projects\\personal\\.Net 10 Project\\DotNet_10_Demo\\ProductsManagement\\ProductsManagement\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "ProductsManagement\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T06:44:02.696Z",
               "EditorCaption": ""

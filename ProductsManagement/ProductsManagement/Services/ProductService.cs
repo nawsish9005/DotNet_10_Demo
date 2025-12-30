@@ -1,4 +1,5 @@
 ﻿using ProductsManagement.Data;
+using ProductsManagement.DTOs;
 using ProductsManagement.Models;
 
 namespace ProductsManagement.Services
@@ -10,11 +11,27 @@ namespace ProductsManagement.Services
         {
             context = appDbContext;
         }
-        public Products AddProduct(Products products)
+        public ProductResponseDto AddProduct(ProductRequestDto productRequestDto)
         {
-            var newProduct = context.Products.Add(products);
+            var product = new Products
+            {
+                Id = 0,
+                Name = productRequestDto.Name,
+                Description = productRequestDto.Description,
+                Price = productRequestDto.Price,
+            };
+
+            var newProduct = context.Products.Add(product);
             context.SaveChanges();
-            return newProduct.Entity;
+
+            var response = new ProductResponseDto
+            {
+                Id = newProduct.Entity.Id,
+                Name = newProduct.Entity.Name,
+                Description = newProduct.Entity.Description,
+                Price = newProduct.Entity.Price,
+            };
+            return response;
         }
 
         public void DeleteProductById(int id)
